@@ -1,1 +1,1 @@
-만들어두는 텍스트파일
+Github를 활용한 나만의 Repository 만들기
